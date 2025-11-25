@@ -1,2 +1,2 @@
 # Estudos JS
-Primeiros estudos
+Primeiros estudos em JS - Novembro de 2025
